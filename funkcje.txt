@@ -1,0 +1,9 @@
+sum() - sumnuje
+list(range(1,10,2) - robi liste [1,3,5,7,9]
+cokolwiek in lista - sprawdza czy wartosc 'cokolwiek' znajduje sie na liscie
+lista.append(element) - dodaje nowy element do listy
+lista.index(elemnet) - zwraca indeks danego elementu w liscie
+lista.insert(index,element) - wstawaianie elementu w podanym miejscu (ale nie usuwanie starego)
+lista.sort() - sortuje elementy rosnaco
+lista.remove(element) - usuwa elemnet
+lista.reverse() - odwraca kolejnosc elemento na liscie

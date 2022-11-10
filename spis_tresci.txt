@@ -1,0 +1,14 @@
+1 WSTEP - POROWNANIE IMPERATYWNEGO Z FUNKCYJNYM
+1.1 - sumowanie 10 liczb w liscie imperatywnie
+1.2 - sumowanie 10 liczb w liscie funkcyjnie
+1.3 - wypisuje 10 poczatkowych liczb ciagu fibonaciego imperatywnie
+1.4 - wypisuje 10 poczatkowych liczb ciagu fibonaciego funkcyjnie
+
+2 SEKWENCYJNE STRUKTURY DANYCH
+2.1 - wyswitla listy z losowymi liczbami i stringgami
+2.2 - wlasciwosci listy, iterowanie zwykle, po indeksach itd
+2.3 - konkatenacja list
+2.4 - wycinanie pewnego odcinka listy
+2.5 - wyszukiwanie danej wartosci na liscie
+2.6 - zamiana starego elementu na nowy do listy
+2.7 - wstawianie nowego elementu w okreslonym miejscu
