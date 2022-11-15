@@ -12,3 +12,6 @@
 2.5 - wyszukiwanie danej wartosci na liscie
 2.6 - zamiana starego elementu na nowy do listy
 2.7 - wstawianie nowego elementu w okreslonym miejscu
+2.8 - sortowanie listy ze stringami
+2.9 - usuwanie wybranego elementu z listy
+2.10 - odwracanie elementow w liscie
