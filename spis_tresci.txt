@@ -15,3 +15,14 @@
 2.8 - sortowanie listy ze stringami
 2.9 - usuwanie wybranego elementu z listy
 2.10 - odwracanie elementow w liscie
+2.11 - sprawdzanie najmniejszej i najwiekszej wartosci na liscie
+2.12 - nowa lista z liczbami od 1 do 100 i suma ich
+2.13 - obliczanie sredniej z zad 2.12
+2.14 - lista dwuwymiarowa - utworzenie listy 2 wymiarowej z samymi 1 na przekatnej
+2.15 - lista dwuwymiarowa - 2.14 z liczbami na przekatnej od 0 do 9
+2.16 - lista dwuwymiarowa - 2.14 z liczbami na DRUGIEJ PRZEKATNEJ
+2.17 - lista dwuwymiarowa - 2.16 z liczbami na przekatnej od 0 do 9
+2.18 - dzialania na macierzach - dodawanie 2 macierzy
+2.19 - dzialania na macierzach - odejmowanie 2 macierzy
+2.20 - dzialania na macierzach - mnozenie 2 macierzy
+2.21 - listy skladane - znajdowanie trojek pitagorejskich w przedziale 1 do N
