@@ -1,4 +1,7 @@
+""" stringi """ - duzy napis z uwzglednieniem nowej linii
+''' string ''' - to samo co powyzej
 sum() - sumnuje
+string[:1] + '.' + string[1:] - wstawia kropke w srodek stringa
 list(range(1,10,2)) - robi liste [1,3,5,7,9]
 cokolwiek in lista - sprawdza czy wartosc 'cokolwiek' znajduje sie na liscie
 lista.append(element) - dodaje nowy element do listy
@@ -8,4 +11,8 @@ lista.sort() - sortuje elementy rosnaco
 lista.remove(element) - usuwa elemnet
 lista.reverse() - odwraca kolejnosc elemento na liscie
 max(lista)/min(lista) - znajduje najwieksza / najmniejsza wartosc na liscie
-tablica = [[0 for i in range(N)] for j in range(N)] - generator tworzy macierz o wymiarze NxN apelniona zerami
+tablica = [[0 for i in range(N)] for j in range(N)] - generator tworzy macierz o wymiarze NxN apelniona zeramiz
+list( filter (nasza_funkcja,range(1,10) ) ) - generuje liste na podstawie filtra ktora jest nasza funkcja w podanym przedziale (2.26)
+list( map (nasza_funkcja,range(1,10) ) ) - generuje liste ale stosuje funkcje dla kazdego elementu w podanym przedziale (2.27)
+reduce() - np functools.reduce(nasza_funkcja, range()) - wykonuje funkcje, dodaje jej wynik do jej nastepnego wyniku (2.31)
+zip(lista1,lista2) - z list robi krotki
