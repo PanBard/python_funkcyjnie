@@ -38,3 +38,7 @@
 2.31 - sumowanie liczb od 1 do 100 z funkcja reduce()
 2.32 - obliczanie przyblizonej wartosci liczby e
 2.33 - demonstracja dzialanie funkcji zip()
+
+3 KROTKI
+3.1 - krotka liczb
+3.2 - krotka wyrazow
