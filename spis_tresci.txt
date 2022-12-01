@@ -40,5 +40,28 @@
 2.33 - demonstracja dzialanie funkcji zip()
 
 3 KROTKI
-3.1 - krotka liczb
+3.1 - pusta krotka i krotka liczb
 3.2 - krotka wyrazow
+3.3 - iteracja po krotce
+3.4 - iteracja po krotce z indeksowaniem
+3.5 - zamiana listy liczb na krotke liczb
+3.6 - konkatenacja krotek
+3.7 - sortowanie krotki z imionami
+3.8 - krotka jako parametr funkcji(cosik nie dziala)
+3.9 - rownanie kwadratowe z krotka
+3.10 - obliczanie sumy krotki
+3.11 - robienie krotki zagniezdzonej (macierzy)
+3.12 - zapis i odczyt krotki z pliku
+
+4 CIAGI TEKSTOWE
+4.1 - iterowanie slowa
+4.2 - zliczanie litery 'a' w zdaniu
+4.3 - indeksowanie ciagu znakow
+4.4 - wycinanie z wyrazu
+4.5 - znajdowanie wyrazow w zdaniu za pomoca 'in' i 'not in'
+4.6 - zastosowanie funkcji sprawdzajace zawartosc ciagu tekstowego
+4.7 - zmiana malych liter na duze
+4.8 - sprawdzanie czy zrobione jest mocne haslo
+4.9 - iteracja po wyrazie, rosnaca i malejaca
+4.10 - uzycie split(), czyli rozdielanie ciagu wyrazow spacjami
+4.11 - split('/') rozdial daty na dni mies itd

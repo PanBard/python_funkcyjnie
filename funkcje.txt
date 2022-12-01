@@ -16,3 +16,12 @@ list( filter (nasza_funkcja,range(1,10) ) ) - generuje liste na podstawie filtra
 list( map (nasza_funkcja,range(1,10) ) ) - generuje liste ale stosuje funkcje dla kazdego elementu w podanym przedziale (2.27)
 reduce() - np functools.reduce(nasza_funkcja, range()) - wykonuje funkcje, dodaje jej wynik do jej nastepnego wyniku (2.31)
 zip(lista1,lista2) - z list robi krotki
+
+--------CIAGI TEKSTOWE----------
+sentence.isalnum() - alfanumeryczny
+sentence.isdigit() - liczby
+sentence.isalpha() - tylko znaki alfabetu
+sentence.isspace() - tylko biale znaki
+sentence.islower() - male litery
+sentence.isupper() - duze litery
+tekst.spli() - rozdzielenie ciagu tekstowego przez to co podamy jako argument
