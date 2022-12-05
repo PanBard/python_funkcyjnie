@@ -79,3 +79,5 @@
 5.10 - suma dwoch zbiorow metoda union()
 5.11 - roznica dwoch zbiorow metoda difference()
 5.12 - iloczyn dwoch zbiorow metoda intersection()
+5.13 - roznica symetryczna dwoch zbiorow (czyli reszta po operacji iloczynu) metoda symmetric_difference()
+5.14 - SERIALIZACJA zbioru do pliku binarnego i wczytywanie zbioru z tegoz pliku
