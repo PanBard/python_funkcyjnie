@@ -25,3 +25,18 @@ sentence.isspace() - tylko biale znaki
 sentence.islower() - male litery
 sentence.isupper() - duze litery
 tekst.spli() - rozdzielenie ciagu tekstowego przez to co podamy jako argument
+
+--------SLOWNIKI----------
+slownik.clear() - usuwa zawartosc
+slownik.get("index","w razie jak nie bedzie") - jesli klucz 'index' istnieje to zwraca wartosc klucza, jak nie ma to zwraca drugi parametr
+slownik.items() - zwraca klucz i wartosc w postaci sekwencji krotek
+slownik.keys() - zwracanie tylko klucza slownika
+slownik.pop() - zwraca wartosc danego klucza, po tym usuwa ta pare klucz-wartosc ze slownika
+
+--------ZBIORY--------------
+set() - utworzenie pustego zbioru
+zbior.add(cos) - dodaje pojedynczy element cos do zbioru
+zbior.update([a,b,c,d]) - dodawanie wiekszej ilosci rzeczy do zbioru
+zbior.union() - dodawanie dwoch zbiorow
+zbior.difference() - odejmowanie dwoch zbiorow
+intersection() - iloczyn dwoch zbiorow

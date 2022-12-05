@@ -65,3 +65,17 @@
 4.9 - iteracja po wyrazie, rosnaca i malejaca
 4.10 - uzycie split(), czyli rozdielanie ciagu wyrazow spacjami
 4.11 - split('/') rozdial daty na dni mies itd
+
+5 SLOWNIK i ZBIOR
+5.1 - slownik
+5.2 - dodawanie i usuwanie elementow ze slownika
+5.3 - metoda clear() na slowniku
+5.4 - metoda get() na slowniku
+5.5 - metoda items() na slowniku, iteracja po kluczach i ich wartosciach
+5.6 - metoda keys() zwracanie tylko klucza
+5.7 - metoda pop() zwraca wartosc danego klucza, po tym usuwa ta pare klucz-wartosc ze slownika
+5.8 - metoda values() zwraza wartosci kluczy
+5.9 - zbiory - nowy zbior, dodawanie elementow i czyszczenie zbioru
+5.10 - suma dwoch zbiorow metoda union()
+5.11 - roznica dwoch zbiorow metoda difference()
+5.12 - iloczyn dwoch zbiorow metoda intersection()
