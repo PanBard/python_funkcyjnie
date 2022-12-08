@@ -41,3 +41,9 @@ zbior.union() - dodawanie dwoch zbiorow
 zbior.difference() - odejmowanie dwoch zbiorow
 intersection() - iloczyn dwoch zbiorow
 symmetric_difference() - pozostalosc po iloczynie - to co nie jest czescia wspolna zbiorow
+
+--------MODULY--------------
+operator - dodaje typowe funkcje operacji matematycznych np operator.add(a,b), operator.sub(a,b),operator.mul(a,b)
+itertools.count(start,krok) - iterator nieskonczony jak range() ale bez gornej granicy, ustalamy tylko poczatek i krok
+itertools.cycle(lista lub krotka lub slownik) - iteruje w kolo po kolejnych wartosciach w kontenerze
+itertools.repeat(co_powtarzac , ile_razy) - iteruje ta sama wartosc zadana ilosc razy

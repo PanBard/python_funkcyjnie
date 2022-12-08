@@ -81,3 +81,10 @@
 5.12 - iloczyn dwoch zbiorow metoda intersection()
 5.13 - roznica symetryczna dwoch zbiorow (czyli reszta po operacji iloczynu) metoda symmetric_difference()
 5.14 - SERIALIZACJA zbioru do pliku binarnego i wczytywanie zbioru z tegoz pliku
+
+6 WYBRANE MODULY PROGRAMOWANIA FUNKCYJNEGO
+6.1 - modul operator - mnozenie elementow listy operator.mul
+6.2 - modul operator - dodawanie elementow listy operator.add
+6.3 - modul itertools - funkcja count() zamist funkcji range()
+6.4 - modul itertools - funkcja cycle() wypisywanie po kolei wartosci z kontenera
+6.5 - modul itertools - funkcja repeat() wypisywanie zadanej ilosci powtorzen
