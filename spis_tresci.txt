@@ -88,3 +88,21 @@
 6.3 - modul itertools - funkcja count() zamist funkcji range()
 6.4 - modul itertools - funkcja cycle() wypisywanie po kolei wartosci z kontenera
 6.5 - modul itertools - funkcja repeat() wypisywanie zadanej ilosci powtorzen
+6.6 - modul itertools - iterator product(lista,druga_lista) - obliczanie iloczynu kartezjanskiego, kazda mozliwa kombinacja, bierze pod uwage wartosci
+6.7 - modul itertools - iterator permutations(lista) - sprawdza permutacje, bierze pod uwage pozycje danego elementu w liscie, nie wartosc
+6.8 - modul itertools - iterator combinations(lista,liczba_obiektow) - kombinacje elementow ale bez powtorzen konkretnego elementu
+6.9 - modul itertools - iterator combinations_with_replacement(lista,liczba_obiektow) - kombinacje z powtorzeniami elementow
+6.10 - modul itertools - iterator skonczony - accumulate(lista, funkcja) - najpierw wykonuje funkcje dla 2 pierwszych elementow, potem dla tego wyniku i 3 elementu itd
+6.11 - modul functools porownanie dzialania funkcji accumulate()[zwraca wyniki posrednie] i reduce()[zwraca sam wynik koncowy]
+6.12 - modul itertools - funkcja chain(lista, lista) - laczy szeregowo elementy z iteratorow
+6.13 - to samo co 6.12 tylko wiecej argumentow w funkcji
+6.14 - modul itertools - funkcja compress(lista, lista_boolean) - w drugim arg dajemy warunek
+6.15 - modul itertools - funkcja dropwhile(funkcja, lista) - jesli dana funkcja zwroci false to wtedy tylko wypisuje reszte elementow z listy
+6.16 - modul itertools - funkcja filterfalse(funkcja, lista) - zwraca obiekt jesli funkcja zwroci false
+6.17 - modul itertools - funkcja islice(iterator,od,do,co_ile) - wycina z listy zadane elementy
+6.18 - modul itertools - funkcja takewhile(funkcja, lista) - zwraca elementy do czasu gdy dostanie false od funkcji
+
+7 FUNKCJE REKURENCYJNE I REKURENCJA OGNOWA
+7.1 - rekurencyjne dodawanie dwuch liczb
+7.2 - rekurencyjne przeszukiwanie listy
+7.3 - wyszukiwanie binarne na posortowanej liscie
