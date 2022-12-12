@@ -106,3 +106,12 @@
 7.1 - rekurencyjne dodawanie dwuch liczb
 7.2 - rekurencyjne przeszukiwanie listy
 7.3 - wyszukiwanie binarne na posortowanej liscie
+7.4 - rekurencja ogonowa - obliczanie silni
+7.5 - potegowanie z rekurencja
+7.6 - ciag fibonaciego rekurencyjnie
+7.7 - funkcja ackermana rekurencyjnie
+
+8 PROGRAMOWANIE ASYNCHRONICZNE
+8.1 - modul asyncio - prosty program asynchroniczny
+8.2 - uruchamianie 2 koprocedur
+8.3 - asynchroniczne tworzenie 10 zadan

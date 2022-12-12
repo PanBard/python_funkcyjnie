@@ -47,3 +47,16 @@ operator - dodaje typowe funkcje operacji matematycznych np operator.add(a,b), o
 itertools.count(start,krok) - iterator nieskonczony jak range() ale bez gornej granicy, ustalamy tylko poczatek i krok
 itertools.cycle(lista lub krotka lub slownik) - iteruje w kolo po kolejnych wartosciach w kontenerze
 itertools.repeat(co_powtarzac , ile_razy) - iteruje ta sama wartosc zadana ilosc razy
+
+-----------REKURENCJA---------------------
+rekurencja ogonowa lub rekurencja prawostronna - rodzaj reurencji gdzie w ostatnim etapie wywoluje sama siebie i mozna ja latwo zamienic na iteracje
+
+-------------ASYNCHRONICZNOSC---------------
+petla zdarzen - zarzadza wszystkimi zadaniami
+koprocedura - funkcje ktore wykonuja sie w petli zdarzen
+await - instrukcja powodujaca powrot do petli zdarzen
+
+--------------TIME-------------------
+import time - modul do czasu
+time.time() - zwraca aktualny czas
+time.strftime('%X') - konwersja czasu na format typu 21:54:48
