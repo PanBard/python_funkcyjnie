@@ -114,4 +114,19 @@
 8 PROGRAMOWANIE ASYNCHRONICZNE
 8.1 - modul asyncio - prosty program asynchroniczny
 8.2 - uruchamianie 2 koprocedur
-8.3 - asynchroniczne tworzenie 10 zadan
+8.3 - tworzenie 10 zadan asynchronicznych
+8.4 - funkcja gather() - uruchamianie kilku zadan bez petli
+8.5 - dodawanie i mnozenie za pomoca koprocedur
+8.6 - .NIE NAPISANE - slabe z macierzami
+8.7 - .NIE NAPISANE - slabe z dodawaniem i mnozeniem liczb
+8.8 - .NIE NAPISANE - slabe z dodawaniem i mnozeniem macierzy
+8.9 - .NIE NAPISANE - generator asynchroniczny z instrukcja yeld
+8.10 - .NIE NAPISANE - generowanie listy po 10s
+8.11 - .NIE NAPISANE - iteratory asynchronicze
+8.12 - .NIE NAPISANE - sprawdzanie parzystosci liczb w liscie
+
+9 WSPOLBIERZNOSC I ROWNOLEGLOSC
+greater_common_measure - modul z obliczaniem najwiekszego wspolnego dzielnika dla krotki 2 liczb
+9.1 - obliczanie najwiekszego wspolnego dzielnika - szeregowo
+9.2 - obliczanie najwiekszego wspolnego dzielnika - w wielu watkach [watki]
+9.3 - obliczanie najwiekszego wspolnego dzielnika - rownolegle [procesy]

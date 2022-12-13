@@ -55,8 +55,15 @@ rekurencja ogonowa lub rekurencja prawostronna - rodzaj reurencji gdzie w ostatn
 petla zdarzen - zarzadza wszystkimi zadaniami
 koprocedura - funkcje ktore wykonuja sie w petli zdarzen
 await - instrukcja powodujaca powrot do petli zdarzen
+obiekt oczekiwalny - funkcja zawirajaca w sobie instrukcje await (kazda koprocedura)
+
 
 --------------TIME-------------------
 import time - modul do czasu
 time.time() - zwraca aktualny czas
 time.strftime('%X') - konwersja czasu na format typu 21:54:48
+time.perf_counter() - do obliczania czasu wykonania programu
+
+yeld - dziala jak return ale nie powoduje wyjscia z funkcji ale wstrzymanie jej do ponownego wywolania
+wspolbierznosc - pozorne wykonywanie duzej liczby zadan (po trochu kazde)
+rownoleglosc - faktycznie wykonywanie wielu zadan jednoczesnie
